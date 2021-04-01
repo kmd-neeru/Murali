@@ -1,0 +1,25 @@
+Script started on 2021-03-14 02:49:29+00:00
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ ls -l
+total 8
+drwxrwxrwx. 2 ec2-user ec2-user   6 Mar  9 05:42  [0m[34;42mdevops[0m
+-rw-rw-r--. 1 ec2-user ec2-user  51 Mar  4 18:36  lnhard.txt
+lrwxrwxrwx. 1 ec2-user ec2-user  10 Mar  4 18:39  [40;31;01mlnsoft.txt[0m -> [01;05;37;41mmurali.txt[0m
+-rw-rw-r--. 1 ec2-user ec2-user 110 Mar  4 18:58 'muni.txt ctrl+O'
+drwxrwxr-x. 2 ec2-user ec2-user  27 Mar 11 09:23  [01;34mmurali[0m
+-rwxrwxrwx. 1 ec2-user ec2-user   0 Feb 27 08:23  [01;32msreelekha[0m
+-rw-rw-r--. 1 ec2-user ec2-user   0 Mar 14 02:49  typescript
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ ls devlo[K[Kops
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ ls murali
+sreelekha.txt
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ ls sreelekha
+[0m[01;32msreelekha[0m
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ cat[K[K[Kcat typescript
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ exit
+exit
+
+Script done on 2021-03-14 02:50:51+00:00
+Script started on 2021-03-14 02:51:57+00:00
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ script [K[K[K[K[K[K[Kexit
+exit
+
+Script done on 2021-03-14 02:52:12+00:00

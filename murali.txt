@@ -1,0 +1,28 @@
+Script started on 2021-03-14 02:52:20+00:00
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ ls -l
+total 12
+drwxrwxrwx. 2 ec2-user ec2-user    6 Mar  9 05:42  [0m[34;42mdevops[0m
+-rw-rw-r--. 1 ec2-user ec2-user   51 Mar  4 18:36  lnhard.txt
+lrwxrwxrwx. 1 ec2-user ec2-user   10 Mar  4 18:39  [01;36mlnsoft.txt[0m -> murali.txt
+-rw-rw-r--. 1 ec2-user ec2-user  110 Mar  4 18:58 'muni.txt ctrl+O'
+drwxrwxr-x. 2 ec2-user ec2-user   27 Mar 11 09:23  [01;34mmurali[0m
+-rw-rw-r--. 1 ec2-user ec2-user    0 Mar 14 02:52  murali.txt
+-rwxrwxrwx. 1 ec2-user ec2-user    0 Feb 27 08:23  [01;32msreelekha[0m
+-rw-rw-r--. 1 ec2-user ec2-user 1297 Mar 14 02:52  typescript
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ tree
+[01;34m.[0m
+├── [34;42mdevops[0m
+├── lnhard.txt
+├── [01;36mlnsoft.txt[0m -> murali.txt
+├── muni.txt ctrl+O
+├── [01;34mmurali[0m
+│   └── sreelekha.txt
+├── murali.txt
+├── [01;32msreelekha[0m
+└── typescript
+
+2 directories, 7 files
+]0;ec2-user@ip-172-31-7-26:~[ec2-user@ip-172-31-7-26 ~]$ exit
+exit
+
+Script done on 2021-03-14 02:52:46+00:00
