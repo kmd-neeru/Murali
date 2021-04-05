@@ -1,70 +1,3 @@
-uname
-mkdir -v devops
-ls
-mkdir -p devops/linux/murali/neeru/
-ls
-ls devops
-tree
-sudo su-
-sudo su -
-ls -l
-ls -al
-ls -li
-tree
-ls -li
-ls -al
-ls -ali
-ls -lt
-ls -alt
-ls -r 
-ls -ltr
-mkdir test
-mkdir test2
-ls -ltr
-ls -lt
-cd `
-cd ~
-exit
-clear
-esc
-exit
-cd ~ /desktop/EC2pemfiles/
-ls
-sudo su -
-cd ~
-cd -
-exit
-clear
-umask
-sudo su -
-ls -l
-mkdir touch
-touch polyton.txt
-find  . -type f -empty
-find . -type d -empty
-cp devops test/
-mural.txt
-ls -al
-cp polyton.txt sreelekha
-find . -type d -empty
-ls -l
-umask 
-uname
-ls
-ls -al
-ls -lh
-ls -lt
-ls -ltr
-ls -lh
-touch
-sudo su -
-mkdir -v sreelekha
-mkdir dishitha/karthik/koushika/gokul/pooja
-cd ~/sreelekha
-mkdir karthik/koushika
-mkdir /karthik
-mkdir p sreelekha/karthik/koushika/gokul/pooja
-tree
 mkdir -p sreelekha/dishitha/koushika/karthik/gokul
 tree
 clear
@@ -954,3 +887,114 @@ cd ~/desktop/amazon
 cd ~/amazon
 /user/
 cd ~/user
+git add sree.Java
+cd ~/vasu
+git add sree.Java
+git commit -m "Second commit"
+git remote add amazon 
+git remote add amazon https://github.com/kmd-neeru/Murali.git
+git push amazon master
+git push az master
+git status
+git commit -a -m "third commit"
+git status
+git commit -a
+pwd
+exit
+vi DBConnect.Java
+vi users.java
+git add DBConnect.Java
+git status
+git --version
+git init
+git 'init'
+git init
+ls -la
+ls
+git add DBConnect.Java
+git status
+git commit -m "DBConnect.Java"
+git add az https://github.com/kmd-neeru/Murali.git
+git add amazon https://github.com/kmd-neeru/Murali.git
+git add origin https://github.com/kmd-neeru/Murali.git
+git remote az https://github.com/kmd-neeru/Murali.git
+git remote origin https://github.com/kmd-neeru/Murali.git
+git remote -v
+git push az master
+sudo su -
+git status
+git remote https://github.com/kmd-neeru/Murali.git
+git add DBConnect.Java
+git status
+git commit -m "First commit"
+git add .
+git add*
+git add *
+git status
+git commit -m
+git commit -m "First commit"
+vi users.java
+git status
+git commit -m "Second commit"
+git commit -a-m "Second commit"
+git commit -a -m "Second commit"
+git status
+git remote -v
+git status
+git add hello.log
+git remote hello.log
+git commit -m "new file"
+git status
+git commit -a -m "New file"
+git status
+git remote az https://github.com/kmd-neeru/Murali.git
+git remote origin https://github.com/kmd-neeru/Murali.git
+git init
+git push az master
+git remote add az https://github.com/kmd-neeru/Murali.git
+git remote -v
+git push az master
+cd ~/git
+mkdir vasu
+cd ~/vasu
+vi sree.Java
+vi sanjay.java
+git status
+git add sree.java
+git add sanjay.java
+git commit -m "first commit"
+git status
+git sanjay.java
+git remote add amazon https://github.com/kmd-neeru/Murali.git
+git push amazon master
+pwd
+cd ~/desktop
+cd ~/Desktop
+pwd
+ls -l
+vi ifbig.sh
+sh ifbig.sh
+vi ifbig.sh
+shi ifbig.sh
+sh ifbig.sh
+vi ifbig.sh
+sh ifbig.sh
+vi ifbig.sh
+sh ifbig.sh
+vi ifbig.sh
+sh ifbig.sh
+sudo su -
+ls -l
+cat helloworld.sh
+sh helloworld.sh
+vi helloworld.sh
+sh helloworld.sh
+cd ~/deskop
+cd ~/home
+/home
+cat /home
+vi ifbig.sh
+sh ifbig.sh
+cat ifbig.sh
+vi ifbig.sh
+sh ifbig.sh

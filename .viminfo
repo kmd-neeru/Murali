@@ -11,14 +11,14 @@
 # hlsearch on (H) or off (h):
 ~H
 # Last Search Pattern:
-~MSle0~/\<0\>
+~Msle0~/\<then\>
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1617303513,,"wq"
+|2,0,1617650617,,"wq"
 :qa
 |2,0,1616611239,,"qa"
 :qa!
@@ -29,6 +29,8 @@ $
 |2,0,1615967331,,"wq!"
 
 # Search String History (newest to oldest):
+? \<then\>
+|2,1,1617306182,,"\\<then\\>"
 ? \<0\>
 |2,1,1615967187,,"\\<0\\>"
 ??\a
@@ -52,230 +54,264 @@ $
 |3,1,36,0,1,0,1616699419,"$"
 
 # File marks:
-'0  3  0  ~/vasu/sanjay.java
-|4,48,3,0,1617303513,"~/vasu/sanjay.java"
-'1  2  16  ~/vasu/sree.Java
-|4,49,2,16,1617303481,"~/vasu/sree.Java"
-'2  4  0  ~/users.java
-|4,50,4,0,1617302420,"~/users.java"
-'3  3  0  ~/users.java
-|4,51,3,0,1617301284,"~/users.java"
-'4  3  0  ~/users.java
-|4,52,3,0,1617301284,"~/users.java"
-'5  3  0  ~/DBConnect.Java
-|4,53,3,0,1617301229,"~/DBConnect.Java"
-'6  4  4  ~/helloworld.sh
-|4,54,4,4,1617299125,"~/helloworld.sh"
-'7  5  6  ~/shellscriptings/forloop2.sh
-|4,55,5,6,1616704543,"~/shellscriptings/forloop2.sh"
-'8  8  19  ~/shellscriptings/forloop2.sh
-|4,56,8,19,1616704379,"~/shellscriptings/forloop2.sh"
-'9  8  19  ~/shellscriptings/forloop2.sh
-|4,57,8,19,1616704379,"~/shellscriptings/forloop2.sh"
+'0  2  19  ~/desktop/DBBConnect.java
+|4,48,2,19,1617650617,"~/desktop/DBBConnect.java"
+'1  3  0  ~/desktop/Users.Java
+|4,49,3,0,1617649641,"~/desktop/Users.Java"
+'2  4  11  ~/desktop/DBBConnect.java
+|4,50,4,11,1617649594,"~/desktop/DBBConnect.java"
+'3  3  11  ~/desktop/DBBConnect.java
+|4,51,3,11,1617649594,"~/desktop/DBBConnect.java"
+'4  10  6  ~/ifbig.sh
+|4,52,10,6,1617370157,"~/ifbig.sh"
+'5  14  0  ~/ifbig.sh
+|4,53,14,0,1617369878,"~/ifbig.sh"
+'6  14  0  ~/ifbig.sh
+|4,54,14,0,1617369878,"~/ifbig.sh"
+'7  5  5  ~/ifbig.sh
+|4,55,5,5,1617306343,"~/ifbig.sh"
+'8  5  5  ~/ifbig.sh
+|4,56,5,5,1617306343,"~/ifbig.sh"
+'9  5  5  ~/ifbig.sh
+|4,57,5,5,1617306343,"~/ifbig.sh"
 
 # Jumplist (newest first):
--'  3  0  ~/vasu/sanjay.java
-|4,39,3,0,1617303513,"~/vasu/sanjay.java"
--'  1  0  ~/vasu/sanjay.java
-|4,39,1,0,1617303494,"~/vasu/sanjay.java"
--'  2  16  ~/vasu/sree.Java
-|4,39,2,16,1617303481,"~/vasu/sree.Java"
--'  2  16  ~/vasu/sree.Java
-|4,39,2,16,1617303481,"~/vasu/sree.Java"
--'  1  0  ~/vasu/sree.Java
-|4,39,1,0,1617303448,"~/vasu/sree.Java"
--'  1  0  ~/vasu/sree.Java
-|4,39,1,0,1617303448,"~/vasu/sree.Java"
--'  4  0  ~/users.java
-|4,39,4,0,1617302420,"~/users.java"
--'  4  0  ~/users.java
-|4,39,4,0,1617302420,"~/users.java"
--'  4  0  ~/users.java
-|4,39,4,0,1617302420,"~/users.java"
--'  4  0  ~/users.java
-|4,39,4,0,1617302420,"~/users.java"
--'  3  0  ~/users.java
-|4,39,3,0,1617302398,"~/users.java"
--'  3  0  ~/users.java
-|4,39,3,0,1617302398,"~/users.java"
--'  3  0  ~/users.java
-|4,39,3,0,1617302398,"~/users.java"
--'  3  0  ~/users.java
-|4,39,3,0,1617302398,"~/users.java"
--'  3  0  ~/users.java
-|4,39,3,0,1617301284,"~/users.java"
--'  3  0  ~/users.java
-|4,39,3,0,1617301284,"~/users.java"
--'  3  0  ~/users.java
-|4,39,3,0,1617301284,"~/users.java"
--'  3  0  ~/users.java
-|4,39,3,0,1617301284,"~/users.java"
--'  1  0  ~/users.java
-|4,39,1,0,1617301251,"~/users.java"
--'  1  0  ~/users.java
-|4,39,1,0,1617301251,"~/users.java"
--'  1  0  ~/users.java
-|4,39,1,0,1617301251,"~/users.java"
--'  1  0  ~/users.java
-|4,39,1,0,1617301251,"~/users.java"
--'  1  0  ~/users.java
-|4,39,1,0,1617301251,"~/users.java"
--'  1  0  ~/users.java
-|4,39,1,0,1617301251,"~/users.java"
--'  1  0  ~/users.java
-|4,39,1,0,1617301251,"~/users.java"
--'  1  0  ~/users.java
-|4,39,1,0,1617301251,"~/users.java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  3  0  ~/DBConnect.Java
-|4,39,3,0,1617301229,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  1  0  ~/DBConnect.Java
-|4,39,1,0,1617301196,"~/DBConnect.Java"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  4  4  ~/helloworld.sh
-|4,39,4,4,1617299125,"~/helloworld.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
--'  5  6  ~/shellscriptings/forloop2.sh
-|4,39,5,6,1616704543,"~/shellscriptings/forloop2.sh"
+-'  2  19  ~/desktop/DBBConnect.java
+|4,39,2,19,1617650617,"~/desktop/DBBConnect.java"
+-'  4  11  ~/desktop/DBBConnect.java
+|4,39,4,11,1617650591,"~/desktop/DBBConnect.java"
+-'  3  0  ~/desktop/Users.Java
+|4,39,3,0,1617649641,"~/desktop/Users.Java"
+-'  3  0  ~/desktop/Users.Java
+|4,39,3,0,1617649641,"~/desktop/Users.Java"
+-'  1  0  ~/desktop/Users.Java
+|4,39,1,0,1617649609,"~/desktop/Users.Java"
+-'  1  0  ~/desktop/Users.Java
+|4,39,1,0,1617649609,"~/desktop/Users.Java"
+-'  3  11  ~/desktop/DBBConnect.java
+|4,39,3,11,1617649594,"~/desktop/DBBConnect.java"
+-'  3  11  ~/desktop/DBBConnect.java
+|4,39,3,11,1617649594,"~/desktop/DBBConnect.java"
+-'  1  0  ~/desktop/DBBConnect.java
+|4,39,1,0,1617649507,"~/desktop/DBBConnect.java"
+-'  1  0  ~/desktop/DBBConnect.java
+|4,39,1,0,1617649507,"~/desktop/DBBConnect.java"
+-'  1  0  ~/desktop/DBBConnect.java
+|4,39,1,0,1617649507,"~/desktop/DBBConnect.java"
+-'  10  6  ~/ifbig.sh
+|4,39,10,6,1617370157,"~/ifbig.sh"
+-'  10  6  ~/ifbig.sh
+|4,39,10,6,1617370157,"~/ifbig.sh"
+-'  10  6  ~/ifbig.sh
+|4,39,10,6,1617370157,"~/ifbig.sh"
+-'  10  6  ~/ifbig.sh
+|4,39,10,6,1617370157,"~/ifbig.sh"
+-'  10  6  ~/ifbig.sh
+|4,39,10,6,1617370157,"~/ifbig.sh"
+-'  10  6  ~/ifbig.sh
+|4,39,10,6,1617370157,"~/ifbig.sh"
+-'  10  6  ~/ifbig.sh
+|4,39,10,6,1617370157,"~/ifbig.sh"
+-'  10  6  ~/ifbig.sh
+|4,39,10,6,1617370157,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369996,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369996,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369996,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369996,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369996,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369996,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369996,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369996,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369878,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369878,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369878,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369878,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369878,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369878,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369878,"~/ifbig.sh"
+-'  14  0  ~/ifbig.sh
+|4,39,14,0,1617369878,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617369516,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617306343,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617306343,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617306343,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617306343,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617306343,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617306343,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617306343,"~/ifbig.sh"
+-'  5  5  ~/ifbig.sh
+|4,39,5,5,1617306343,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306259,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306221,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306221,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306221,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306221,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306221,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306221,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306221,"~/ifbig.sh"
+-'  11  1  ~/ifbig.sh
+|4,39,11,1,1617306221,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
+-'  9  0  ~/ifbig.sh
+|4,39,9,0,1617306182,"~/ifbig.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/desktop/DBBConnect.java
+	*	1617650613	0
+	"	2	19
+	^	2	20
+	.	2	19
+	+	4	11
+	+	2	19
+
+> ~/desktop/Users.Java
+	*	1617649636	0
+	"	3	0
+	^	3	0
+	.	2	22
+	+	2	22
+
+> ~/ifbig.sh
+	*	1617370154	0
+	"	10	6
+	^	10	7
+	.	8	6
+	+	13	2
+	+	5	5
+	+	8	0
+	+	9	0
+	+	10	0
+	+	5	28
+	+	5	8
+	+	8	5
+	+	10	0
+	+	9	0
+	+	8	0
+	+	5	31
+	+	8	6
 
 > ~/vasu/sanjay.java
 	*	1617303511	0
@@ -450,26 +486,3 @@ $
 	^	4	0
 	.	3	39
 	+	3	39
-
-> ~/shellscriptings/read1.sh
-	*	1616610078	0
-	"	3	46
-	^	3	47
-	.	3	46
-	+	3	46
-
-> ~/shellscriptings/Helloworld.sh
-	*	1616225317	0
-	"	5	19
-	^	5	20
-	.	5	19
-	+	3	4
-	+	2	4
-	+	5	19
-
-> ~/.ssh/config
-	*	1616224764	0
-	"	4	0
-	^	4	0
-	.	3	21
-	+	3	21
