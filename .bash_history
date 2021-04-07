@@ -1,62 +1,3 @@
-mkdir -p sreelekha/dishitha/koushika/karthik/gokul
-tree
-clear
-chmod 700 devops
-ls -l
-mkdir -m 700 murali
-ls -l
-chmod 777 devops
-ls -l
-chmod 777 murali
-ls -l
-chmod u+700,g+300 polyton.txt
-chmod u+7,g+4 polyton.txt
-ls 
-chmod u+rwx,g+rwx polyton.txt
-ls -l
-chmod u+r,g+r polyton.txt
-ls -l
-chmod 000 polyton
-chmod 000 polyton.txt
-ls -l
-chmod u+rw,g+rx polyton.txt
-ls -l
-chmod 000 touch
-ls -l
-chmod u+wx,g+rw touch
-ls -l
-sudo su
-chmod u+rwx,g+rwx,o+rwx touch
-ls -l
-clear
-ls -l
-chmod 700 polyton.txt
-ls -l
-chmod 070 polyton.txt
-ls -l
-chmod 007 polyton.txt
-ls -l
-chmod 777 polyton.txt
-ls -l
-chmod +m700 devops
-chmod -m700 devops
-chmod -m 700 devops
-touch sreelekha.txt
-touch neeru.txt
-sudo su -
-chown root neeru.txt
-sudo su -
-exit
-cd ~
-pwd
-cd -
-pwd
-cd ~ / devops/linux
-cd ~ / touch
-rmdir touch
-rmdir test2
-rmdir murali
-ls -l
 rmdir sreelekha
 tree
 rmdir test
@@ -998,3 +939,62 @@ sh ifbig.sh
 cat ifbig.sh
 vi ifbig.sh
 sh ifbig.sh
+mkdir desktop
+cd ~/desktop
+cd ~/desktop/
+ls -l
+vi DBBConnect.java
+vi Users.Java
+git add DBBConnect.java
+git status
+git commit -m "commit DBBConnect"
+git remote add origin master
+git push origin master
+git remote add origin https://github.com/kmd-neeru/Murali.git
+git push amazon master
+git add Users.Java
+git commit -m "Commit Users java"
+git push amazon master
+git branch
+git branch development
+git branch
+git checkout development
+git branch
+git branch staging
+git  branch
+git checkout staging
+clear
+git branch 
+ls -l
+vi DBBConnect.java
+git checkout development
+cat DBBConnect
+cat DBBConnect.java
+git branch
+git diff staging
+git merge staging
+git diff master
+git merge staging development
+git push amazon master staging
+git push amazon --all
+git checkout  -b uat
+git branch
+git commit -a -m "update"
+git config --global username "Murali-neeru"
+git config --globaluser.name "Murali-neeru"
+git config --global user.mail "kmd_neeru@yahoo.com"
+git config --global --list
+git config --global user.name "Murali-neeru"
+git congi --global --list
+git config --global --list
+git remote -v
+git add.
+git add*
+git add .
+git add *
+git status
+git commit -m
+git commit -a -am "commiting all the files"
+git push amazon master
+git checkout :development
+git push amazon :development
